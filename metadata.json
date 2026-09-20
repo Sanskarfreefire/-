@@ -1,0 +1,6 @@
+{
+  "name": "SR MODS",
+  "description": "Non-root ESP and Aimbot overlay control panel system",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
